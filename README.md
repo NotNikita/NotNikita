@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Nik
 
-I am a Software Developer with over 3 years of experience in React, Next.js, Node.js, Python and Scala, backed by a bachelors degree in Computer Science from the Belarussian State University of Informatics and Radioelectronics.
+I am a Software Developer with over 4+ years of experience in React, Next.js, Node.js, Golang and Scala, backed by a bachelors degree in Computer Science from the Belarussian State University of Informatics and Radioelectronics.
 
 My skills include proficiency in styling libraries, test automation tools like Cypress, and performance optimization techniques.
 
